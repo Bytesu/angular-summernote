@@ -20,7 +20,7 @@
     ".bowerrc",
     ".coveralls.yml"
   ],
-  "keywords": ["angular.js", "angular-tmc-editor", "editor", "directive"],
+  "keywords": ["angular.js", "summernote", "editor", "directive"],
   "authors": [
     {
       "name": "\"Outsider\" Jeonghoon Byun",

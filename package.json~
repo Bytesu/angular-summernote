@@ -1,8 +1,9 @@
 {
-  "name": "angular-tmc-editor",
+  "name": "tmc-angular-summernote",
   "version": "1.0.0",
   "author": {
   },
+  "private": true,
   "licenses": [],
   "devDependencies": {
     "grunt": "~0.4.1",
